@@ -1,1 +1,1 @@
-# eddigi-munk-im
+# Kocsis Róbert Benjámin/órarend
